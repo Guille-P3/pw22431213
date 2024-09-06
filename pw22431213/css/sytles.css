@@ -19,6 +19,6 @@ header nav ul li {
 }
 
 header nav ul li:hover{
-    background: blue;
-    color: blue;
+    background: white;
+     color: blue;
 }
